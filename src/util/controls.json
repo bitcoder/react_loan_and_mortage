@@ -67,6 +67,14 @@
     {
       "label": "Term Length (Yrs)",
       "event": "termLength"
+    },
+    {
+      "label": "Age",
+      "event": "age"
+    },
+    {
+      "label": "Children",
+      "event": "children"
     }
   ]
 }
