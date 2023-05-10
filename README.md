@@ -1,2 +1,2 @@
-# react_loan_and_mortage
+# SimpleReactLoanAndMortgageCalculator
 Created with CodeSandbox
